@@ -28,7 +28,7 @@ dependencies {
 Now you have access to the entire Material Design color palette:
 
 ```java
-coordinatorLayout.setStatusBarColor(Colorful.blue700);
+coordinatorLayout.setStatusBarColor(blue700);
 ```
 
 ```xml

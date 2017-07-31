@@ -21,7 +21,7 @@ Add the dependency to the gradle build file:
 
 ```gradle
 dependencies {
-    compile 'com.github.calintat:colorful:1.0.1'
+    compile 'com.github.calintat:chromatic:1.0.1'
 }
 ```
 

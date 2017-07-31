@@ -8,15 +8,15 @@ group = 'com.github.calintat'
 
 android {
 
-    compileSdkVersion 25
+    compileSdkVersion 26
 
-    buildToolsVersion "25.0.2"
+    buildToolsVersion "26.0.0"
 
     defaultConfig {
 
         minSdkVersion 21
 
-        targetSdkVersion 25
+        targetSdkVersion 26
 
         versionCode 2
 

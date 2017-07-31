@@ -1,6 +1,6 @@
-# Colorful
+# Chromatic
 
-[![](https://jitpack.io/v/calintat/colorful.svg)](https://jitpack.io/#calintat/alps)
+[![](https://jitpack.io/v/calintat/chromatic.svg)](https://jitpack.io/#calintat/alps)
 
 Get quick access to all Material Design colors in both Java and XML.
 

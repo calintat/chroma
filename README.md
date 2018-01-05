@@ -1,4 +1,4 @@
-# Chromatic
+# Chroma
 
 [![](https://jitpack.io/v/calintat/chromatic.svg)](https://jitpack.io/#calintat/alps)
 

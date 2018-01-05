@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Chromatic.iml" filepath="$PROJECT_DIR$/Chromatic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chromatic/chromatic.iml" filepath="$PROJECT_DIR$/chromatic/chromatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chroma.iml" filepath="$PROJECT_DIR$/Chroma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chroma/chromatic.iml" filepath="$PROJECT_DIR$/chroma/chromatic.iml" />
     </modules>
   </component>
 </project>
